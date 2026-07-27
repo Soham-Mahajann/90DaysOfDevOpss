@@ -62,4 +62,3 @@ After all, I want to contribute to building scalable, secure, and highly availab
 ---
 
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
